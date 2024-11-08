@@ -1,6 +1,6 @@
 ﻿namespace AlgorithmProject.ConsoleApp.Models;
 
-public struct TravelTimeEvent
+public class TravelTimeEvent
 {
 
     public string From { get; set; }

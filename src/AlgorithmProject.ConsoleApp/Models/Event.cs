@@ -1,6 +1,6 @@
 ﻿namespace AlgorithmProject.ConsoleApp.Models;
 
-public struct Event
+public class Event
 {
 
     public int Id { get; set; }
